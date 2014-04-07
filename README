@@ -1,1 +1,8 @@
 EL puerto que se abrira en este programa sera el 15557. 
+
+Para correr el programa se ocupa la libreria GTK+ 3.0, para instalarla solo se ingresa en terminal:
+
+          sudo su
+          apt-get install gtk+-3.0
+          apt-get update
+          
